@@ -1,2 +1,2 @@
 # people_service
-Spring boot webservice with couchbase 
+Spring boot webservice with MongoDB
